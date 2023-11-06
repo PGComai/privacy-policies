@@ -1,0 +1,4 @@
+This privacy policy is a work in progress.
+
+- Astro Puzzle neither collects nor transmits any personally identifying user data.
+- The only data stored by the app is to keep track of game settings and unfinished puzzles, and this is kept on the device or wherever the user chooses to back up their data.
