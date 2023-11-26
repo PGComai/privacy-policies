@@ -1,1 +1,5 @@
-Support info wip
+Welcome to the support page!
+
+Puzzle Planetarium is my first published game. I hope that it works well, but if you encounter any errors or bugs please feel free to reach out to me at the email below.
+
+comai.alex@gmail.com
